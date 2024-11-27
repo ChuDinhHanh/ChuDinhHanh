@@ -15,6 +15,3 @@ Tools & other: Git, Docker, Postman, RESTful APIs, Figma.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=github,laravel,csharp,java,js,react,nodejs,redux,regex,mongodb,firebase,figma,css,bootstrap,docker,postman" />
 </p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=github,laravel,c#,java,js,react,nodejs,redux,regex,mongodb,firebase,figma,css,bootstrap,docker,postman" />
-</p>
