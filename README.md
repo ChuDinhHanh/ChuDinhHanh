@@ -1,8 +1,8 @@
 <p>Welcome to my page! </br> I'm Hanh
 
-🌱 About Me:
-🌱 I am Le Chu Dinh Hanh, an IT student at Thu Duc college of technology, majoring in Software Engineering engineering.
-🌱 Aspiring Frontend or Mobile Developer, eager to contribute to innovative projects and solve complex challenges.
+🌱 About Me:</br>
+🌱 I am Le Chu Dinh Hanh, an IT student at Thu Duc college of technology, majoring in Software Engineering engineering.</br>
+🌱 Aspiring Frontend or Mobile Developer, eager to contribute to innovative projects and solve complex challenges.</br>
 
 🌱 Skilled in working with modern technologies such as:
 
