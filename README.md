@@ -2,8 +2,8 @@
 
 🌱 About Me:</br>
 
-🌱 I am Chu Dinh Hanh, an IT student at Thu Duc college of technology, majoring in Software Engineering engineering.</br>
-🌱 Aspiring Frontend or Mobile Developer, eager to contribute to innovative projects and solve complex challenges.</br>
+🚀 I am Chu Dinh Hanh, an IT student at Thu Duc college of technology, majoring in Software Engineering engineering.</br>
+🚀 Aspiring Frontend or Mobile Developer, eager to contribute to innovative projects and solve complex challenges.</br>
 
 🌱 Skilled in working with modern technologies such as:
 
