@@ -14,5 +14,5 @@ Database: Mysql, Firebase.</br>
 Tools & other: Git, Postman, RESTful APIs, Figma.</br>
 <h3>Things I code with</h3></br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,laravel,cs,java,js,react,nodejs,redux,regex,mongodb,firebase,figma,css,bootstrap,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=github,laravel,cs,java,js,react,nodejs,redux,regex,firebase,figma,css,bootstrap,postman" />
 </p>
