@@ -7,7 +7,7 @@
 
 🌱 Skilled in working with modern technologies such as:</br>
 
-Backend & Framework: Java, Php, NodeJs, Spring Boot, Laravel.</br>
+Backend & Framework: Java, Php, Laravel.</br>
 Frontend & Framework: React, HTML, CSS, JavaScript, Bootstrap, and jQuery.</br>
 Mobile: React Native, Java.</br>
 Database: Mysql, Firebase.</br>
